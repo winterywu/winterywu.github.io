@@ -104,7 +104,6 @@ section .intro { color: var(--muted); margin: 0 0 36px; }
 .timeline .what span { color: var(--ink-soft); font-size: 0.95rem; }
 
 .two-col { display: grid; grid-template-columns: 1.6fr 1fr; gap: 48px; }
-.two-col h3 { font-size: 1.1rem; margin: 0 0 12px; }
 
 /* ---------- publications ---------- */
 .pubs { margin: 0; padding-left: 1.2em; }
