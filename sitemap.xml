@@ -12,4 +12,16 @@
     <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://winterywu.github.io/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://winterywu.github.io/en/"/>
   </url>
+  <url>
+    <loc>https://winterywu.github.io/publications/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://winterywu.github.io/publications/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://winterywu.github.io/en/publications/"/>
+  </url>
+  <url>
+    <loc>https://winterywu.github.io/en/publications/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://winterywu.github.io/publications/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://winterywu.github.io/en/publications/"/>
+  </url>
 </urlset>
